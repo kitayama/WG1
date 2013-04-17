@@ -3,7 +3,7 @@
 # Script to create archive files to be distributed.
 # Currently bz2 and zip are supported.
 #---------------------------------------------------------------- 
-NAME=pgecons-wg1-report
+NAME=pgecons-wg1-2012-report
 VERSION=1.0
 FULLNAME=${NAME}-${VERSION}
 TARDIST=${FULLNAME}.tar.bz2
